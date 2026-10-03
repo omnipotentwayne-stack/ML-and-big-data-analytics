@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32998253/README.md)
 # 心臟病預測：機器學習模型比較與外部驗證
 
 以臨床生理指標預測患者是否罹患心臟病，比較 Logistic Regression、Decision Tree、XGBoost 與 Neural Network 四類模型的預測表現與泛化能力，並以獨立資料集進行外部驗證。
